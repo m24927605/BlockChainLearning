@@ -7,6 +7,7 @@ Learning resources
 3. [币市必备网站和APP](https://zhuanlan.zhihu.com/p/33083377)
 4. [200行 JS 代码实现区块链](https://zhuanlan.zhihu.com/p/34827027)
 5. [区块链技术入门，涉及哪些编程语言？](https://www.zhihu.com/question/46729645)
+6. [區塊鏈和電商-玩幣族](http://www.wanbizu.com/p/29104.html)
 
 ## 臉書追蹤資源
 1. [Ah Go 吳一風](https://www.facebook.com/ahgo.wu/)
