@@ -28,3 +28,4 @@ Learning resources
 16. [Blockchain News](https://www.facebook.com/blockchainnews/)
 17. [以太坊 Ethereum](https://www.facebook.com/ETH.zh.hant/)
 18. [區塊客 blockcast.it](https://www.facebook.com/blockcast.it/)
+19. [區塊邦](https://www.facebook.com/AsiaBlockcamp/)
